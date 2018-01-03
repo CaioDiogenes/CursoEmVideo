@@ -1,0 +1,3 @@
+Sout + tab 	=	System.out.println
+Psvm + tab	=	Public Static Void Main
+http://www.oracle.com/technetwork/java/javafxscenebuilder-1x-archive-2199384.html
